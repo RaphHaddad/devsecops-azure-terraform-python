@@ -1,6 +1,6 @@
 # README
 
-Example code referencing my blog post.
+Example code referencing my [blog post](https://blog.raph.ws).
 
 ## Pre-requisites
 
