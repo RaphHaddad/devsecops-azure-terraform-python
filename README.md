@@ -1,6 +1,6 @@
 # README
 
-Example code referencing my [blog post](https://blog.raph.ws).
+Example code referencing my [blog post](https://blog.raph.ws/2021/02/devsecops-on-azure-using-terraform-and-python/).
 
 ## Pre-requisites
 
